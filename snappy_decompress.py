@@ -1,3 +1,8 @@
+#$AUTHOR$:Divya Idupulapati
+#$DATE$:06/10/2024
+#$VERSION$:1.0
+#$LICENSE$:MIT
+#$DESCRIPTION$:Decompress .snz files using snappy and read the first 100 lines of each decompressed file
 import os
 import snappy
 

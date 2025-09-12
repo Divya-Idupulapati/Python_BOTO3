@@ -1,3 +1,8 @@
+#$AUTHOR$:Divya Idupulapati
+#$DATE$:06/10/2024
+#$VERSION$:1.0
+#$LICENSE$:MIT
+#$DESCRIPTION$:Download .snz files from S3 bucket to local directory
 import boto3
 from boto3 import session
 
