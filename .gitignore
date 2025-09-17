@@ -1,2 +1,2 @@
 *.snz
-snappy_decompress
+snappy_decompress.venv/
