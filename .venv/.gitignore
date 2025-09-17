@@ -1,51 +1,16 @@
-# Created by venv; see https://docs.python.org/3/library/venv.html
-# -------------------------------
-# Python
-# -------------------------------
+# Python cache
 __pycache__/
-*.py[cod]
+*.pyc
 *.pyo
-*.pyd
-*.so
-*.egg
-*.egg-info/
-.eggs/
-dist/
-build/
-*.manifest
-*.spec
 
-# Virtual environment
+# Virtual env
 .venv/
 env/
 venv/
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints
-
-# -------------------------------
-# IDEs & Editors
-# -------------------------------
-# PyCharm
+# IDE settings
 .idea/
-
-# VS Code
 .vscode/
 
-# -------------------------------
-# OS files
-# -------------------------------
+# MacOS
 .DS_Store
-Thumbs.db
-
-# -------------------------------
-# Logs
-# -------------------------------
-*.log
-
-# -------------------------------
-# Data (optional)
-# -------------------------------
-# If your .snz files are very large, ignore them:
-# *.snz
-
