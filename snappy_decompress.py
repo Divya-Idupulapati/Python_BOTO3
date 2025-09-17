@@ -18,7 +18,7 @@ dst_dir = "./snappy_decompress/"
 #     if filename.endswith(".snz"):
 #         out_path = os.path.join(dst_dir, filename[:-4])  # Remove .snz extension
 #         with open(os.path.join(local_snz_path, filename), "rb") as src, open(out_path, "wb") as dst:
-#             snappy.stream_decompress(src=src, dst=dst)
+#          snappy.stream_decompress(src=src, dst=dst)
 #         print(f"Decompressed {filename} to {out_path}")
 
 #I want to open notepad using OS module and capture the PID
